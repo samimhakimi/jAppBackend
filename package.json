@@ -1,0 +1,22 @@
+{
+  "name": "node_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csrf": "^3.1.0",
+    "firebase": "^8.1.2",
+    "multer": "^1.4.2",
+    "node": "^15.3.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "eslint-config-eslint": "^7.0.0"
+  }
+}

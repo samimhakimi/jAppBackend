@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "jozeko": "jozekoapp",
+    "default": "jozekoapp"
+  }
+}

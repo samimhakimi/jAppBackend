@@ -1,0 +1,26 @@
+{
+  "hosting": {
+    "site": "backend-2",
+    "public": "./"
+  },
+  "functions": {
+    "source": "functions"
+  },
+  "emulators": {
+    "auth": {
+      "port": 4000
+    },
+    "functions": {
+      "port": 5001
+    },
+    "firestore": {
+      "port": 4002
+    },
+    "database": {
+      "port": 7001
+    },
+    "ui": {
+      "enabled": false
+    }
+  }
+}

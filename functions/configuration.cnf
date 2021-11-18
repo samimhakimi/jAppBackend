@@ -1,0 +1,11 @@
+[ req ]
+extensions               = v3_ca
+req_extensions           = v3_ca
+distinguished_name = req_distinguished_name
+
+[ v3_ca ]
+basicConstraints         = CA:FALSE
+
+[ req_distinguished_name ]
+countryName_min          = 2
+countryName_max          = 2
